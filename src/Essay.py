@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 19 20:49:22 2016
 
-@author: Pranav
-"""
 from Features import Features
 
 class Essay:
