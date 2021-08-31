@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 21 18:55:38 2016
 
-@author: Pranav
-"""
 
 import skll.metrics as metric
 import numpy as np
