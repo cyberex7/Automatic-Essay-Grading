@@ -1,6 +1,6 @@
 # Automatic Essay Grading
 
-In the task of essay grading we assign a grade to an essay in the most human-like manner possible. We tackle this problem by building statistical models which try and predict how a human would evaluate an essay. In this paper, the models we use are Support Vector Machines, Decision Trees, Random forests and Recurrent Neural Networks (LSTMs). We also propose to use the technique of boosting with Decision Trees.
+Objective: assigning a grade to an essay in the most human-like manner possible. This problem is handled  by building statistical models which try and predict how a human would evaluate an essay. The models used are Support Vector Machines, Decision Trees, Random forests and Recurrent Neural Networks (LSTMs). A technique of boosting with Decision Trees has also been proposed.
 
 # References
 
